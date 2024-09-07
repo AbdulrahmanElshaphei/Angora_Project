@@ -1,0 +1,22 @@
+@media (max-width: 640px) {
+    .Home .carousel-caption{
+        bottom: 250px;
+    }
+    h1{
+        font-size:37px;
+        font-weight: 700;
+        max-width: 500px;
+    }
+
+}
+
+@media (max-width: 320px) {
+    .Home .carousel-caption{
+        bottom: 140px;
+    }
+    h1{
+        font-size:30px;
+        font-weight: 700;
+    }
+
+}
